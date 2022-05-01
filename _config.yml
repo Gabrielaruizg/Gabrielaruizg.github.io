@@ -1,14 +1,12 @@
-.tab2 {
-    tab-size: 4;
-}
-title: <pre class="tab2">Gabriela Ruiz</pre> # your name (or website title) here
-logo: "https://dell-my.sharepoint.com/personal/gabriela_ruiz_dell_com/Documents/Desktop/Picture1.jpg?Web=1" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+title: <p align="center"> Gabriela Ruiz </p>
+logo: "https://dell-my.sharepoint.com/personal/gabriela_ruiz_dell_com/Documents/Desktop/Picture1.jpg?Web=1" 
+description: 
+  <p align="justify">
   I'm pursuing a BS degree in Information Technology Systems at The University of Texas at Dallas.
   <br><br>
   I'm currently an Account Manager at Dell Technology/Salesworks Champion with focus on Data Analystics to improve the tool, drive adoption, and create a more user friendly experience.  
   <br><br>
+  </p>
   <a href="https://www.linkedin.com/in/gabrielaruizgonzalez/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
